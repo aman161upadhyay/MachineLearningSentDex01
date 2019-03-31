@@ -1,0 +1,7 @@
+#List of modules needed
+
+sklearn
+numpy
+scipy
+quandl
+pandas
